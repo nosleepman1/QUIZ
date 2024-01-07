@@ -1,0 +1,24 @@
+{
+  "name": "No sleeps' QUIZ",
+  "short_name": "QUIZ",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/culture_10053855.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/culture_10053855.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
